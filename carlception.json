@@ -25,7 +25,7 @@
                  "x":32,
                  "y":32
                 }],
-         "height":48,
+         "height":16,
          "id":8,
          "name":"collides",
          "opacity":1,
@@ -33,7 +33,7 @@
          "starty":32,
          "type":"tilelayer",
          "visible":true,
-         "width":80,
+         "width":48,
          "x":0,
          "y":0
         }, 
@@ -590,15 +590,21 @@
         }, 
         {
          "chunks":[],
-         "height":16,
+         "height":0,
          "id":5,
          "name":"start_carlception_portcarl",
          "opacity":1,
-         "startx":16,
-         "starty":32,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
+         "startx":0,
+         "starty":0,
          "type":"tilelayer",
          "visible":true,
-         "width":48,
+         "width":0,
          "x":0,
          "y":0
         }, 
@@ -651,13 +657,13 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.7.1",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
          "columns":64,
          "firstgid":1,
-         "image":"..\/github\/rc3_2021\/Assets\/carlception.png",
+         "image":"assets\/tilesets\/carlception.png",
          "imageheight":1600,
          "imagewidth":2048,
          "margin":0,
@@ -1517,7 +1523,7 @@
          "margin":0,
          "name":"hidden_layers",
          "spacing":0,
-         "tilecount":72,
+         "tilecount":0,
          "tileheight":32,
          "tilewidth":32
         }],
