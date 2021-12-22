@@ -598,7 +598,7 @@
                 {
                  "name":"startLayer",
                  "type":"bool",
-                 "value":true
+                 "value":false
                 }],
          "startx":0,
          "starty":0,
