@@ -299,7 +299,7 @@
         {
          "columns":19,
          "firstgid":1,
-         "image":"..\/utopolis-konferenz\/assets\/tilesets\/Disco_Tileset.png",
+         "image":"assets\/tilesets\/Disco_Tileset.png",
          "imageheight":960,
          "imagewidth":608,
          "margin":0,
@@ -312,7 +312,7 @@
         {
          "columns":40,
          "firstgid":571,
-         "image":"..\/utopolis-konferenz\/assets\/tilesets\/Foyer_Tileset.png",
+         "image":"assets\/tilesets\/Foyer_Tileset.png",
          "imageheight":1280,
          "imagewidth":1280,
          "margin":0,
