@@ -39,7 +39,7 @@
          "name":"exit_",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":60,
          "x":0,
          "y":0
@@ -71,13 +71,13 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.7.1",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
          "columns":9,
          "firstgid":1,
-         "image":"..\/utopolis-konferenz\/assets\/tilesets\/hidden_layers.png",
+         "image":"..\/RC3_21\/assets\/tilesets\/hidden_layers.png",
          "imageheight":256,
          "imagewidth":288,
          "margin":0,
