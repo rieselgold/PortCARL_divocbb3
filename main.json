@@ -80,7 +80,7 @@
 <<<<<<< HEAD
          "image":"assets\/tilesets\/hidden_layers.png",
 =======
-         "image":"..\/RC3_21\/assets\/tilesets\/hidden_layers.png",
+         "image":"..\/assets\/tilesets\/hidden_layers.png",
 >>>>>>> 49046de04db7835e952a073a9fcfc90e63bec58e
          "imageheight":256,
          "imagewidth":288,
