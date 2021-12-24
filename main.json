@@ -71,13 +71,17 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.7.1",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
          "columns":9,
          "firstgid":1,
+<<<<<<< HEAD
          "image":"assets\/tilesets\/hidden_layers.png",
+=======
+         "image":"..\/RC3_21\/assets\/tilesets\/hidden_layers.png",
+>>>>>>> 49046de04db7835e952a073a9fcfc90e63bec58e
          "imageheight":256,
          "imagewidth":288,
          "margin":0,
