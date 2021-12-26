@@ -30,7 +30,7 @@
                 {
                  "name":"exit_Url",
                  "type":"string",
-                 "value":"blinkinglight.json"
+                 "value":"blinkenlights.json"
                 }],
          "type":"tilelayer",
          "visible":true,
