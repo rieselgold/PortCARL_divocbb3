@@ -293,7 +293,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.7.2",
+ "tiledversion":"1.7.1",
  "tileheight":32,
  "tilesets":[
         {
@@ -9633,15 +9633,15 @@
          "tilewidth":32
         }, 
         {
-         "columns":10,
+         "columns":56,
          "firstgid":4249,
          "image":"assets\/tilesets\/blinknlights.png",
-         "imageheight":256,
-         "imagewidth":320,
+         "imageheight":1280,
+         "imagewidth":1792,
          "margin":0,
          "name":"blinknlights",
          "spacing":0,
-         "tilecount":80,
+         "tilecount":2240,
          "tileheight":32,
          "tiles":[
                 {
