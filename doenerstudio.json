@@ -46,9 +46,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"portcarl.json#start"
+                 "value":"portcarl.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -67,6 +67,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.instagram.com\/p\/CIMSV6CqaxV\/?utm_source=ig_web_copy_link"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"About D\u00f6ner?\n(Press on SPACE)"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -85,6 +95,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.instagram.com\/p\/CHDk9jnqDhn\/?utm_source=ig_web_copy_link"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"About D\u00f6ner?\n(Press on SPACE)"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -103,6 +123,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.instagram.com\/p\/CHcRNSIqBgM\/?utm_source=ig_web_copy_link"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"About D\u00f6ner?\n(Press on SPACE)"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -121,6 +151,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.instagram.com\/p\/CHOmjymqiul\/?utm_source=ig_web_copy_link"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"About D\u00f6ner?\n(Press on SPACE)"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -139,6 +179,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.instagram.com\/p\/CHM5H_WKMqJ\/?utm_source=ig_web_copy_link"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"About D\u00f6ner?\n(Press on SPACE)"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -157,6 +207,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.instagram.com\/p\/CHM5H_WKMqJ\/?utm_source=ig_web_copy_link"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"About D\u00f6ner?\n(Press on SPACE)"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -175,6 +235,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.instagram.com\/p\/CGhgWWxqOx0\/?utm_source=ig_web_copy_link"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"About D\u00f6ner?\n(Press on SPACE)"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -193,6 +263,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.instagram.com\/p\/CGgohjCKf0T\/?utm_source=ig_web_copy_link"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"About D\u00f6ner?\n(Press on SPACE)"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -211,6 +291,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.instagram.com\/p\/CGeqyRoKf_r\/?utm_source=ig_web_copy_link"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"About D\u00f6ner?\n(Press on SPACE)"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -229,6 +319,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.instagram.com\/p\/CGeqyRoKf_r\/?utm_source=ig_web_copy_link"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"About D\u00f6ner?\n(Press on SPACE)"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -247,6 +347,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.instagram.com\/p\/CGcV8Z2qWLD\/?utm_source=ig_web_copy_link"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"About D\u00f6ner?\n(Press on SPACE)"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -265,6 +375,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.instagram.com\/p\/CFzjbO4K1Dx\/?utm_source=ig_web_copy_link"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"About D\u00f6ner?\n(Press on SPACE)"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -283,6 +403,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.instagram.com\/p\/CFxMe-nq2Zz\/?utm_source=ig_web_copy_link"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"About D\u00f6ner?\n(Press on SPACE)"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -301,6 +431,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.instagram.com\/p\/CFte22nKdGC\/?utm_source=ig_web_copy_link"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"About D\u00f6ner?\n(Press on SPACE)"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -319,6 +459,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.instagram.com\/p\/CEnAKDwqkyX\/?utm_source=ig_web_copy_link"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"About D\u00f6ner?\n(Press on SPACE)"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -337,6 +487,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.instagram.com\/p\/CFxMe-nq2Zz\/?utm_source=ig_web_copy_link"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"About D\u00f6ner?\n(Press on SPACE)"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -355,6 +515,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.instagram.com\/p\/CD3zUANKdgU\/?utm_source=ig_web_copy_link"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"About D\u00f6ner?\n(Press on SPACE)"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -373,6 +543,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.instagram.com\/p\/CDxwvRxq1PM\/?utm_source=ig_web_copy_link"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"About D\u00f6ner?\n(Press on SPACE)"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -511,6 +691,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/meet.jit.si\/radiocarl"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"About D\u00f6ner?\n(Press on SPACE)"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -565,6 +755,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/hearthis.at\/mukkeakkedemy\/live\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"About D\u00f6ner?\n(Press on SPACE)"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -595,6 +795,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/mukkeakkedemy.bandcamp.com\/album\/acid-diesel-gt"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"About D\u00f6ner?\n(Press on SPACE)"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -613,6 +823,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/mukkeakkedemy.bandcamp.com\/album\/frictionized"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"About D\u00f6ner?\n(Press on SPACE)"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -631,6 +851,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/mukkeakkedemy.bandcamp.com\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"About D\u00f6ner?\n(Press on SPACE)"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -660,7 +890,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/komona\/main.json"
+                 "value":"world:\/\/1komona\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
