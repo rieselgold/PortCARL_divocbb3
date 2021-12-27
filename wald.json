@@ -112,9 +112,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"404_21",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":""
+                 "value":"404_21.json"
                 }],
          "type":"tilelayer",
          "visible":true,

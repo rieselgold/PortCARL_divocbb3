@@ -100,7 +100,7 @@
  "nextobjectid":2,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.7.2",
+ "tiledversion":"1.7.1",
  "tileheight":32,
  "tilesets":[
         {
@@ -111,6 +111,12 @@
          "imagewidth":736,
          "margin":0,
          "name":"RedRoom_Floor",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"s\u00efana\u00efs \/ lieblinge.org"
+                }],
          "spacing":0,
          "tilecount":529,
          "tileheight":32,
@@ -4013,6 +4019,12 @@
          "imagewidth":736,
          "margin":0,
          "name":"redroom_stuff",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"s\u00efana\u00efs \/ lieblinge.org"
+                }],
          "spacing":0,
          "tilecount":529,
          "tileheight":32,
