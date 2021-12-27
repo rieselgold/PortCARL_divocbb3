@@ -231,6 +231,12 @@
  "nextlayerid":18,
  "nextobjectid":2,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"s\u00efana\u00efs \/ lieblinge.org"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.1",
  "tileheight":32,

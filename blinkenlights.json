@@ -302,6 +302,12 @@
  "nextlayerid":22,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"s\u00efana\u00efs+cosmic040 \/ lieblinge.org"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.1",
  "tileheight":32,
@@ -2829,6 +2835,12 @@
          "imagewidth":2240,
          "margin":0,
          "name":"Blinkenlights_heart_night",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"cosmic040+s\u00efana\u00efs \/ lieblinge.org"
+                }],
          "spacing":0,
          "tilecount":1190,
          "tileheight":32,

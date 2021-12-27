@@ -352,6 +352,12 @@
  "nextlayerid":35,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"s\u00efana\u00efs \/ lieblinge.org"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.1",
  "tileheight":32,
@@ -364,6 +370,12 @@
          "imagewidth":288,
          "margin":0,
          "name":"hidden_layers",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"s\u00efana\u00efs \/ lieblinge.org"
+                }],
          "spacing":0,
          "tilecount":72,
          "tileheight":32,
@@ -93681,7 +93693,13 @@
                          "duration":800,
                          "tileid":694
                         }],
-                 "id":689
+                 "id":689,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"s\u00efana\u00efs \/ lieblinge.org"
+                        }]
                 }, 
                 {
                  "animation":[
@@ -93693,7 +93711,13 @@
                          "duration":800,
                          "tileid":695
                         }],
-                 "id":690
+                 "id":690,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"s\u00efana\u00efs \/ lieblinge.org"
+                        }]
                 }, 
                 {
                  "animation":[
@@ -93705,7 +93729,13 @@
                          "duration":800,
                          "tileid":696
                         }],
-                 "id":691
+                 "id":691,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"s\u00efana\u00efs \/ lieblinge.org"
+                        }]
                 }, 
                 {
                  "animation":[
@@ -93717,7 +93747,13 @@
                          "duration":800,
                          "tileid":697
                         }],
-                 "id":692
+                 "id":692,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"s\u00efana\u00efs \/ lieblinge.org"
+                        }]
                 }, 
                 {
                  "animation":[
@@ -93729,7 +93765,13 @@
                          "duration":800,
                          "tileid":698
                         }],
-                 "id":693
+                 "id":693,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"s\u00efana\u00efs \/ lieblinge.org"
+                        }]
                 }, 
                 {
                  "animation":[
@@ -93741,7 +93783,13 @@
                          "duration":800,
                          "tileid":732
                         }],
-                 "id":727
+                 "id":727,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"s\u00efana\u00efs \/ lieblinge.org"
+                        }]
                 }, 
                 {
                  "animation":[
@@ -93753,7 +93801,13 @@
                          "duration":800,
                          "tileid":733
                         }],
-                 "id":728
+                 "id":728,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"s\u00efana\u00efs \/ lieblinge.org"
+                        }]
                 }, 
                 {
                  "animation":[
@@ -93765,7 +93819,13 @@
                          "duration":800,
                          "tileid":734
                         }],
-                 "id":729
+                 "id":729,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"s\u00efana\u00efs \/ lieblinge.org"
+                        }]
                 }, 
                 {
                  "animation":[
@@ -93777,7 +93837,13 @@
                          "duration":800,
                          "tileid":735
                         }],
-                 "id":730
+                 "id":730,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"s\u00efana\u00efs \/ lieblinge.org"
+                        }]
                 }, 
                 {
                  "animation":[
@@ -93789,7 +93855,13 @@
                          "duration":800,
                          "tileid":736
                         }],
-                 "id":731
+                 "id":731,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"s\u00efana\u00efs \/ lieblinge.org"
+                        }]
                 }, 
                 {
                  "animation":[
@@ -93801,7 +93873,13 @@
                          "duration":800,
                          "tileid":770
                         }],
-                 "id":765
+                 "id":765,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"s\u00efana\u00efs \/ lieblinge.org"
+                        }]
                 }, 
                 {
                  "animation":[
@@ -93813,7 +93891,13 @@
                          "duration":800,
                          "tileid":771
                         }],
-                 "id":766
+                 "id":766,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"s\u00efana\u00efs \/ lieblinge.org"
+                        }]
                 }, 
                 {
                  "animation":[
@@ -93825,7 +93909,13 @@
                          "duration":800,
                          "tileid":772
                         }],
-                 "id":767
+                 "id":767,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"s\u00efana\u00efs \/ lieblinge.org"
+                        }]
                 }, 
                 {
                  "animation":[
@@ -93837,7 +93927,13 @@
                          "duration":800,
                          "tileid":773
                         }],
-                 "id":768
+                 "id":768,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"s\u00efana\u00efs \/ lieblinge.org"
+                        }]
                 }, 
                 {
                  "animation":[
@@ -93849,7 +93945,13 @@
                          "duration":800,
                          "tileid":774
                         }],
-                 "id":769
+                 "id":769,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"s\u00efana\u00efs \/ lieblinge.org"
+                        }]
                 }, 
                 {
                  "animation":[
@@ -93861,7 +93963,13 @@
                          "duration":800,
                          "tileid":808
                         }],
-                 "id":803
+                 "id":803,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"s\u00efana\u00efs \/ lieblinge.org"
+                        }]
                 }, 
                 {
                  "animation":[
@@ -93873,7 +93981,13 @@
                          "duration":800,
                          "tileid":809
                         }],
-                 "id":804
+                 "id":804,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"s\u00efana\u00efs \/ lieblinge.org"
+                        }]
                 }, 
                 {
                  "animation":[
@@ -93885,7 +93999,13 @@
                          "duration":800,
                          "tileid":810
                         }],
-                 "id":805
+                 "id":805,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"s\u00efana\u00efs \/ lieblinge.org"
+                        }]
                 }, 
                 {
                  "animation":[
@@ -93897,7 +94017,13 @@
                          "duration":800,
                          "tileid":811
                         }],
-                 "id":806
+                 "id":806,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"s\u00efana\u00efs \/ lieblinge.org"
+                        }]
                 }, 
                 {
                  "animation":[
@@ -93909,7 +94035,13 @@
                          "duration":800,
                          "tileid":812
                         }],
-                 "id":807
+                 "id":807,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"s\u00efana\u00efs \/ lieblinge.org"
+                        }]
                 }, 
                 {
                  "animation":[
@@ -93921,7 +94053,13 @@
                          "duration":800,
                          "tileid":846
                         }],
-                 "id":841
+                 "id":841,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"s\u00efana\u00efs \/ lieblinge.org"
+                        }]
                 }, 
                 {
                  "animation":[
@@ -93933,7 +94071,13 @@
                          "duration":800,
                          "tileid":847
                         }],
-                 "id":842
+                 "id":842,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"s\u00efana\u00efs \/ lieblinge.org"
+                        }]
                 }, 
                 {
                  "animation":[
@@ -93945,7 +94089,13 @@
                          "duration":800,
                          "tileid":848
                         }],
-                 "id":843
+                 "id":843,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"s\u00efana\u00efs \/ lieblinge.org"
+                        }]
                 }, 
                 {
                  "animation":[
@@ -93957,7 +94107,13 @@
                          "duration":800,
                          "tileid":849
                         }],
-                 "id":844
+                 "id":844,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"s\u00efana\u00efs \/ lieblinge.org"
+                        }]
                 }, 
                 {
                  "animation":[
@@ -93969,7 +94125,13 @@
                          "duration":800,
                          "tileid":850
                         }],
-                 "id":845
+                 "id":845,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"s\u00efana\u00efs \/ lieblinge.org"
+                        }]
                 }, 
                 {
                  "animation":[
@@ -94283,6 +94445,12 @@
          "imagewidth":608,
          "margin":0,
          "name":"Disco_Tileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"s\u00efana\u00efs \/ lieblinge.org"
+                }],
          "spacing":0,
          "tilecount":570,
          "tileheight":32,

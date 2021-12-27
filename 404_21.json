@@ -142,6 +142,12 @@
  "nextlayerid":14,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"s\u00efana\u00efs \/ lieblinge.org"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.1",
  "tileheight":32,
@@ -154,6 +160,12 @@
          "imagewidth":1000,
          "margin":0,
          "name":"ERROR",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"s\u00efana\u00efs \/ lieblinge.org\nScreenshot from Workadventure by thecodingmachine  "
+                }],
          "spacing":0,
          "tilecount":527,
          "tileheight":32,
@@ -177,6 +189,12 @@
          "imagewidth":160,
          "margin":0,
          "name":"404_beam",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"s\u00efana\u00efs \/ lieblinge.org"
+                }],
          "spacing":0,
          "tilecount":10,
          "tileheight":32,
