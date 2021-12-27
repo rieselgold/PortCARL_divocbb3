@@ -270,7 +270,7 @@
          "height":50,
          "id":26,
          "name":"Blinknlights",
-         "opacity":0.4,
+         "opacity":0.3,
          "type":"tilelayer",
          "visible":true,
          "width":50,
