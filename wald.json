@@ -78,7 +78,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json#start"
+                 "value":"main.json#start_wald_main"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -92,6 +92,12 @@
          "id":9,
          "name":"collides",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"collides",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -106,9 +112,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"404_21",
                  "type":"string",
-                 "value":"404_21.json"
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -341,7 +347,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.7.2",
+ "tiledversion":"1.7.1",
  "tileheight":32,
  "tilesets":[
         {
