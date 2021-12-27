@@ -78,7 +78,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json#start_wald_main"
+                 "value":"main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
