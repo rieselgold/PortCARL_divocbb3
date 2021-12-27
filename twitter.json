@@ -11,8 +11,8 @@
          "properties":[
                 {
                  "name":"exitUrl",
-                 "type":"bool",
-                 "value":true
+                 "type":"string",
+                 "value":"main.json"
                 }],
          "type":"tilelayer",
          "visible":true,

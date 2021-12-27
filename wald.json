@@ -364,6 +364,12 @@
          "imagewidth":608,
          "margin":0,
          "name":"Disco_Tileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"s\u00efana\u00efs \/ lieblinge.org"
+                }],
          "spacing":0,
          "tilecount":570,
          "tileheight":32,
@@ -377,6 +383,12 @@
          "imagewidth":1280,
          "margin":0,
          "name":"Foyer_Tileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"s\u00efana\u00efs \/ lieblinge.org"
+                }],
          "spacing":0,
          "tilecount":1600,
          "tileheight":32,
@@ -390,6 +402,12 @@
          "imagewidth":288,
          "margin":0,
          "name":"hidden_layers",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"s\u00efana\u00efs \/ lieblinge.org"
+                }],
          "spacing":0,
          "tilecount":72,
          "tileheight":32,
@@ -413,6 +431,12 @@
          "imagewidth":992,
          "margin":0,
          "name":"Garten_Tileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"s\u00efana\u00efs \/ lieblinge.org"
+                }],
          "spacing":0,
          "tilecount":992,
          "tileheight":32,
@@ -691,6 +715,12 @@
          "imagewidth":1920,
          "margin":0,
          "name":"blinknlights",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"s\u00efana\u00efs \/ lieblinge.org"
+                }],
          "spacing":0,
          "tilecount":2400,
          "tileheight":32,
@@ -1457,6 +1487,12 @@
          "imagewidth":1024,
          "margin":0,
          "name":"berlin_night_tileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"s\u00efana\u00efs \/ lieblinge.org"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
