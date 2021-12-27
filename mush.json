@@ -1,0 +1,15 @@
+{ "columns":6,
+ "image":"Mushroom_2.png",
+ "imageheight":41,
+ "imagewidth":50,
+ "margin":0,
+ "name":"Mushroom_2",
+ "spacing":0,
+ "tilecount":30,
+ "tiledversion":"1.7.2",
+ "tileheight":8,
+ "tilewidth":8,
+ "transparentcolor":"#ffffff",
+ "type":"tileset",
+ "version":"1.6"
+}

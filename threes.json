@@ -1,0 +1,25 @@
+{ "columns":8,
+ "image":"Textures&trees.png",
+ "imageheight":240,
+ "imagewidth":272,
+ "margin":0,
+ "name":"Textures&trees",
+ "spacing":0,
+ "tilecount":56,
+ "tiledversion":"1.7.2",
+ "tileheight":32,
+ "tiles":[
+        {
+         "id":0,
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0"
+                }]
+        }],
+ "tilewidth":32,
+ "transparentcolor":"#ffffff",
+ "type":"tileset",
+ "version":"1.6"
+}

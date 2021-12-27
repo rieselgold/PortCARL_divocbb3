@@ -1,0 +1,25 @@
+{ "columns":8,
+ "image":"BackgroundMuntain02.png",
+ "imageheight":170,
+ "imagewidth":270,
+ "margin":0,
+ "name":"BackgroundMuntain02",
+ "spacing":0,
+ "tilecount":40,
+ "tiledversion":"1.7.2",
+ "tileheight":32,
+ "tiles":[
+        {
+         "id":0,
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0"
+                }]
+        }],
+ "tilewidth":32,
+ "transparentcolor":"#ffffff",
+ "type":"tileset",
+ "version":"1.6"
+}
