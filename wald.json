@@ -44,6 +44,12 @@
          "id":43,
          "name":"exit_blinkenlights",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"blinkenlights.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
