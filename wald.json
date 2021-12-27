@@ -127,6 +127,16 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"portcarl-lagerfeuer"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"About some fire?\n(Press on SPACE)"
                 }],
          "type":"tilelayer",
          "visible":true,
