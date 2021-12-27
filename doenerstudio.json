@@ -660,7 +660,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<menschmeier>\/komonarc3\/main.json#start}"
+                 "value":"world:\/\/komona\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,

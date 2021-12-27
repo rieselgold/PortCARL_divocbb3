@@ -84,7 +84,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lounge>\/main.json#start}"
+                 "value":"world:\/\/lounge\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,

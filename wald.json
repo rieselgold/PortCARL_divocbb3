@@ -78,7 +78,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json#start_wald_main"
+                 "value":"main.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -112,9 +112,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"404_21",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":""
+                 "value":"404_21.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -347,7 +347,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.7.1",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
