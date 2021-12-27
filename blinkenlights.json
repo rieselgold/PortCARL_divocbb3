@@ -307,6 +307,11 @@
          "name":"mapCopyright",
          "type":"string",
          "value":"s\u00efana\u00efs+cosmic040 \/ lieblinge.org"
+        }, 
+        {
+         "name":"script",
+         "type":"string",
+         "value":"blinkenlights.js"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
