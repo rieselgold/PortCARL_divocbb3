@@ -84,7 +84,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"portcarl"
+                 "value":"portcarl.json"
                 }],
          "type":"tilelayer",
          "visible":true,
