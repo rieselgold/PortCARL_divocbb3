@@ -912,6 +912,12 @@
  "nextlayerid":46,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"Christoph Engelhard \/ F\u00d6RM \/ BrettPitch \/ RadioCarl"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
@@ -924,6 +930,12 @@
          "imagewidth":609,
          "margin":0,
          "name":"SynthieGround",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Christoph Engelhard \/ F\u00d6RM \/ BrettPitch \/ RadioCarl"
+                }],
          "spacing":0,
          "tilecount":190,
          "tileheight":32,
@@ -937,6 +949,12 @@
          "imagewidth":960,
          "margin":0,
          "name":"Klatscho",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Christoph Engelhard \/ F\u00d6RM \/ BrettPitch \/ RadioCarl"
+                }],
          "spacing":0,
          "tilecount":900,
          "tileheight":32,
@@ -950,6 +968,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"klatschtitle",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Christoph Engelhard \/ F\u00d6RM \/ BrettPitch \/ RadioCarl"
+                }],
          "spacing":0,
          "tilecount":100,
          "tileheight":32,
@@ -963,6 +987,12 @@
          "imagewidth":300,
          "margin":0,
          "name":"reggae",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Christoph Engelhard \/ F\u00d6RM \/ BrettPitch \/ RadioCarl"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -976,6 +1006,12 @@
          "imagewidth":300,
          "margin":0,
          "name":"flisntischgx",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Christoph Engelhard \/ F\u00d6RM \/ BrettPitch \/ RadioCarl"
+                }],
          "spacing":0,
          "tilecount":45,
          "tileheight":32,
@@ -989,9 +1025,25 @@
          "imagewidth":153,
          "margin":0,
          "name":"chamodifsvp",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Christoph Engelhard \/ F\u00d6RM \/ BrettPitch \/ RadioCarl"
+                }],
          "spacing":0,
          "tilecount":40,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"Christoph Engelhard \/ F\u00d6RM \/ BrettPitch \/ RadioCarl"
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -1002,9 +1054,25 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-functionary",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"mullana \/ rc3 \/ CC0"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"mullana \/ rc3 \/ CC0"
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -1015,6 +1083,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-neon-signs",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"mullana \/ rc3 \/ CC0"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -1028,6 +1102,12 @@
          "imagewidth":1200,
          "margin":0,
          "name":"karrtoffel",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Christoph Engelhard \/ F\u00d6RM \/ BrettPitch \/ RadioCarl"
+                }],
          "spacing":0,
          "tilecount":1369,
          "tileheight":32,
@@ -1041,6 +1121,12 @@
          "imagewidth":160,
          "margin":0,
          "name":"live",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Christoph Engelhard \/ F\u00d6RM \/ BrettPitch \/ RadioCarl"
+                }],
          "spacing":0,
          "tilecount":15,
          "tileheight":32,
@@ -1054,6 +1140,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"helles2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Christoph Engelhard \/ F\u00d6RM \/ BrettPitch \/ RadioCarl"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1067,6 +1159,12 @@
          "imagewidth":640,
          "margin":0,
          "name":"kasdrtoffredl",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Christoph Engelhard \/ F\u00d6RM \/ BrettPitch \/ RadioCarl"
+                }],
          "spacing":0,
          "tilecount":260,
          "tileheight":32,
@@ -1080,6 +1178,12 @@
          "imagewidth":192,
          "margin":0,
          "name":"carlgameboy",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Christoph Engelhard \/ F\u00d6RM \/ BrettPitch \/ RadioCarl"
+                }],
          "spacing":0,
          "tilecount":24,
          "tileheight":32,

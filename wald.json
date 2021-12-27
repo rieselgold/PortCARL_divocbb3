@@ -78,7 +78,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json#start_wald_main"
+                 "value":"main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -92,12 +92,6 @@
          "id":9,
          "name":"collides",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"collides",
-                 "type":"bool",
-                 "value":true
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -353,7 +347,7 @@
          "value":"s\u00efana\u00efs \/ lieblinge.org"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.7.1",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {

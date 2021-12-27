@@ -317,7 +317,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.7.1",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -328,6 +328,12 @@
          "imagewidth":1024,
          "margin":0,
          "name":"portcarl_v4",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"s\u00efana\u00efs \/ lieblinge.org"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -351,6 +357,12 @@
          "imagewidth":1024,
          "margin":0,
          "name":"portcarl_DiVoc_Dschungel",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"s\u00efana\u00efs \/ lieblinge.org"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -364,6 +376,12 @@
          "imagewidth":896,
          "margin":0,
          "name":"portalfog",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"s\u00efana\u00efs \/ lieblinge.org"
+                }],
          "spacing":0,
          "tilecount":112,
          "tileheight":32,
@@ -890,6 +908,12 @@
          "imagewidth":2560,
          "margin":0,
          "name":"nur_CARL_DiVOC_Animation_Tileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"s\u00efana\u00efs \/ lieblinge.org"
+                }],
          "spacing":0,
          "tilecount":800,
          "tileheight":32,
@@ -4330,6 +4354,12 @@
          "imagewidth":4608,
          "margin":0,
          "name":"sparkle_anaimation",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"s\u00efana\u00efs \/ lieblinge.org"
+                }],
          "spacing":0,
          "tilecount":864,
          "tileheight":32,
@@ -7944,6 +7974,12 @@
          "imagewidth":3840,
          "margin":0,
          "name":"PoisonCast_96x96",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"s\u00efana\u00efs \/ lieblinge.org"
+                }],
          "spacing":0,
          "tilecount":360,
          "tileheight":32,
@@ -9434,6 +9470,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"animated_little_friends",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"s\u00efana\u00efs \/ lieblinge.org"
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -9664,6 +9706,12 @@
          "imagewidth":1920,
          "margin":0,
          "name":"blinknlights",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"s\u00efana\u00efs \/ lieblinge.org"
+                }],
          "spacing":0,
          "tilecount":2400,
          "tileheight":32,
@@ -9774,6 +9822,12 @@
          "imagewidth":4096,
          "margin":0,
          "name":"portcarl-back-animation_8",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"s\u00efana\u00efs \/ lieblinge.org"
+                }],
          "spacing":0,
          "tilecount":8192,
          "tileheight":32,
@@ -46652,6 +46706,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"Palme_Quickfix",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"s\u00efana\u00efs \/ lieblinge.org"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -46665,6 +46725,12 @@
          "imagewidth":288,
          "margin":0,
          "name":"hidden_layers",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"s\u00efana\u00efs \/ lieblinge.org"
+                }],
          "spacing":0,
          "tilecount":72,
          "tileheight":32,
