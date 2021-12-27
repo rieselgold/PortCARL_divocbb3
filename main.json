@@ -126,7 +126,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"portcarl.json "
+                 "value":"portcarl.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -62345,6 +62345,16 @@
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":12,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"s\u00efana\u00efs \/ lieblinge.org"
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
