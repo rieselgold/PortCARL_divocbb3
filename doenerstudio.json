@@ -1025,6 +1025,12 @@
          "imagewidth":153,
          "margin":0,
          "name":"chamodifsvp",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Christoph Engelhard \/ F\u00d6RM \/ BrettPitch \/ RadioCarl"
+                }],
          "spacing":0,
          "tilecount":40,
          "tileheight":32,
