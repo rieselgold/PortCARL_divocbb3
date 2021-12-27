@@ -309,7 +309,7 @@
          "value":"s\u00efana\u00efs+cosmic040 \/ lieblinge.org"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.7.1",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -320,6 +320,12 @@
          "imagewidth":288,
          "margin":0,
          "name":"hidden_layers",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"s\u00efana\u00efs \/ lieblinge.org"
+                }],
          "spacing":0,
          "tilecount":72,
          "tileheight":32,
@@ -352,9 +358,25 @@
          "imagewidth":1280,
          "margin":0,
          "name":"Foyer_Tileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"s\u00efana\u00efs \/ lieblinge.org"
+                }],
          "spacing":0,
          "tilecount":1600,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"mullana \/ rc3 \/CC0"
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -365,6 +387,12 @@
          "imagewidth":992,
          "margin":0,
          "name":"Garten_Tileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"s\u00efana\u00efs \/ lieblinge.org"
+                }],
          "spacing":0,
          "tilecount":992,
          "tileheight":32,
@@ -695,6 +723,12 @@
          "imagewidth":2240,
          "margin":0,
          "name":"blinkenlights_heart",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"s\u00efana\u00efs \/ lieblinge.org"
+                }],
          "spacing":0,
          "tilecount":490,
          "tileheight":32,
@@ -2809,6 +2843,12 @@
          "imagewidth":1024,
          "margin":0,
          "name":"berlin_night_tileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"s\u00efana\u00efs \/ lieblinge.org"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -2822,6 +2862,12 @@
          "imagewidth":1280,
          "margin":0,
          "name":"Foyer_Tileset_night",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"mullana \/ rc3 \/CC0"
+                }],
          "spacing":0,
          "tilecount":1600,
          "tileheight":32,
@@ -4955,6 +5001,12 @@
          "imagewidth":1216,
          "margin":0,
          "name":"FX_Lights_Tileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"s\u00efana\u00efs \/ lieblinge.org"
+                }],
          "spacing":0,
          "tilecount":1140,
          "tileheight":32,
@@ -5109,6 +5161,12 @@
          "imagewidth":1920,
          "margin":0,
          "name":"blinknlights",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"s\u00efana\u00efs \/ lieblinge.org"
+                }],
          "spacing":0,
          "tilecount":2400,
          "tileheight":32,

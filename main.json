@@ -356,10 +356,10 @@
         {
          "name":"mapCopyright",
          "type":"string",
-         "value":"s\u00efana\u00efs \/ lieblinge.org"
+         "value":"s\u00efana\u00efs \/ lieblinge.org \/ BrettPitch \/ RadioCarl"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.7.1",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -399,6 +399,12 @@
          "imagewidth":11264,
          "margin":0,
          "name":"portcarl_bg_anim_v2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"s\u00efana\u00efs \/ lieblinge.org"
+                }],
          "spacing":0,
          "tilecount":11264,
          "tileheight":32,
@@ -55709,6 +55715,12 @@
          "imagewidth":1024,
          "margin":0,
          "name":"portcarl_DiVoc_Dschungel",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"s\u00efana\u00efs \/ lieblinge.org"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -55732,6 +55744,12 @@
          "imagewidth":1920,
          "margin":0,
          "name":"blinknlights",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"s\u00efana\u00efs \/ lieblinge.org"
+                }],
          "spacing":0,
          "tilecount":2400,
          "tileheight":32,
@@ -61341,6 +61359,12 @@
          "imagewidth":1216,
          "margin":0,
          "name":"FX_Lights_Tileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"s\u00efana\u00efs \/ lieblinge.org"
+                }],
          "spacing":0,
          "tilecount":1140,
          "tileheight":32,

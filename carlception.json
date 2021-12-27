@@ -235,10 +235,10 @@
         {
          "name":"mapCopyright",
          "type":"string",
-         "value":"s\u00efana\u00efs \/ lieblinge.org"
+         "value":"s\u00efana\u00efs \/ lieblinge.org \/ BrettPitch \/ RadioCarl"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.7.1",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
