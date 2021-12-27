@@ -78,7 +78,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json#start_wald_main"
+                 "value":"main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -92,12 +92,6 @@
          "id":9,
          "name":"collides",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"collides",
-                 "type":"bool",
-                 "value":true
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -133,6 +127,16 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"portcarl-lagerfeuer"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"About some fire?\n(Press on SPACE)"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -347,7 +351,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.7.1",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
