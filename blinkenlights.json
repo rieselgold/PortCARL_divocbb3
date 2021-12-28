@@ -246,7 +246,7 @@
          "name":"obj_haus_vordergrund_pac",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":60,
          "x":0,
          "y":0
@@ -321,7 +321,7 @@
          "value":"s\u00efana\u00efs+cosmic040 \/ lieblinge.org"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.7.1",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
