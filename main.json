@@ -42,7 +42,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"portCARL"
+                 "value":"portcarl"
                 }],
          "type":"tilelayer",
          "visible":true,
