@@ -61554,6 +61554,12 @@
          "imagewidth":1216,
          "margin":0,
          "name":"FX_Lights_Tileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"(c) s\u00efana\u00efs \/ lieblinge.org"
+                }],
          "spacing":0,
          "tilecount":1140,
          "tileheight":32,
