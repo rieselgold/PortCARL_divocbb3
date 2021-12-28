@@ -120,7 +120,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"carlception.json#start_carlception"
+                 "value":"carlception.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
