@@ -1,3 +1,8 @@
 WA.onInit().then(() => {
-    console.log('Current player name: ', WA.player.name);
+    WA.room.onEnterLayer('blinkenlights_switch_1').subscribe(() => {
+        WA.chat.sendChatMessage("Hello!", 'Mr Robot');
+    });
+    WA.room.onLeaveLayer('blinkenlights_switch_1').subscribe(() => {
+        WA.chat.sendChatMessage("Goodbye!", 'Mr Robot');
+    });
 });
