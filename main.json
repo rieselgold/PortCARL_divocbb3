@@ -401,7 +401,7 @@
          "value":"s\u00efana\u00efs \/ lieblinge.org"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.7.2",
+ "tiledversion":"1.5.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -55795,6 +55795,12 @@
          "imagewidth":1920,
          "margin":0,
          "name":"blinknlights",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" s\u00efana\u00efs \/ lieblinge.org"
+                }],
          "spacing":0,
          "tilecount":2400,
          "tileheight":32,
@@ -61553,6 +61559,15 @@
          "tileheight":32,
          "tiles":[
                 {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"s\u00efana\u00efs \/ lieblinge.org"
+                        }]
+                }, 
+                {
                  "animation":[
                         {
                          "duration":300,
@@ -62671,6 +62686,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.6",
+ "version":1.5,
  "width":60
 }
