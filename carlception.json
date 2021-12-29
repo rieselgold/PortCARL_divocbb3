@@ -138,7 +138,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"portcarl.json"
+                 "value":"main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
