@@ -1145,15 +1145,6 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
-                {
-                 "id":4,
-                 "properties":[
-                        {
-                         "name":"startLayer",
-                         "type":"bool",
-                         "value":true
-                        }]
                 }],
          "tilewidth":32
         }],
