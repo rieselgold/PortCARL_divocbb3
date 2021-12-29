@@ -68,6 +68,22 @@
          "id":9,
          "name":"audio",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openAudioTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openAudioTriggerMessage",
+                 "type":"string",
+                 "value":"About D\u00f6ner?\n(Press on SPACE)"
+                }, 
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"assets\/audio\/acid.mp3"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":96,
