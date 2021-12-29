@@ -371,10 +371,10 @@
         {
          "name":"script",
          "type":"string",
-         "value":"assets\/scripts\/blinkenlights.js"
+         "value":"https:\/\/static.rc3.world\/scripts\/portCARL\/script.js"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.5.0",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -11468,6 +11468,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.5,
+ "version":"1.6",
  "width":60
 }
