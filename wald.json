@@ -62,6 +62,12 @@
          "id":45,
          "name":"audio_wald",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"assets\/audio\/wald.mp3"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -377,7 +383,7 @@
          "value":"s\u00efana\u00efs \/ lieblinge.org"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.7.1",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
