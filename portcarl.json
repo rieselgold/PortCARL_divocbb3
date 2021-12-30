@@ -244,6 +244,90 @@
         }, 
         {
          "draworder":"topdown",
+         "id":30,
+         "name":"nft_roboter",
+         "objects":[
+                {
+                 "height":40,
+                 "id":1,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"a24OZRzKDgjvy5MVDfFPgRK3zH914umLyl5Hg07fvtjoYLRjir"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":40.6666666666666,
+                 "x":998.666666666667,
+                 "y":684.666666666667
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":31,
+         "name":"nft_missu",
+         "objects":[
+                {
+                 "height":54.6666666666666,
+                 "id":2,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"a24OZRzKDgjvy5MVDfFPgRK3zH914umLyl5Hg07fvtjoYLRjir"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":54,
+                 "x":551.333333333333,
+                 "y":776
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":32,
+         "name":"nft_myass",
+         "objects":[
+                {
+                 "height":64,
+                 "id":4,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"V9udVCKPSHkHslQj9JmvkwcspniPKJI885OY8w3xIqpzOio4n4"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":91.3333333333334,
+                 "x":772.666666666667,
+                 "y":1137.33333333333
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
          "id":14,
          "name":"floorLayer",
          "objects":[],
@@ -313,8 +397,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":30,
- "nextobjectid":1,
+ "nextlayerid":33,
+ "nextobjectid":5,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
