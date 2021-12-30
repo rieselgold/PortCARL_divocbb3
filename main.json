@@ -445,6 +445,12 @@
                  "height":38.5,
                  "id":21,
                  "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"Ig7HlrvZJDHHSJmpdlwNKAPaWPodeqbg11b4dDW4Cl40qtINad"
+                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -467,6 +473,12 @@
                  "height":39,
                  "id":20,
                  "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"Ig7HlrvZJDHHSJmpdlwNKAPaWPodeqbg11b4dDW4Cl40qtINad"
+                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -489,6 +501,12 @@
                  "height":35,
                  "id":19,
                  "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"HHNLifjJpfxZZj22bXzIAcTdRvBIgT5ADg13KnLj6EaM19vn1j"
+                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
