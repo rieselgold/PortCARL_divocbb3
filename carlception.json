@@ -214,6 +214,90 @@
         }, 
         {
          "draworder":"topdown",
+         "id":19,
+         "name":"nft_wifi",
+         "objects":[
+                {
+                 "height":39.3939393939395,
+                 "id":2,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"Z78dOAs1lILu9p7O7gl4duIRzlsv7gtH7OrjXZKvzNFTQjKt09"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":63.6363636363637,
+                 "x":1236.36363636364,
+                 "y":1260.60606060606
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":20,
+         "name":"nft_why",
+         "objects":[
+                {
+                 "height":103.030303030303,
+                 "id":3,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"JjJPkkLzUwpWmGvXe372Oth2ScxymGFyI64jW4NQOlvc338RHq"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":236.363636363636,
+                 "x":1263.63636363636,
+                 "y":2215.15151515152
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":21,
+         "name":"nft_rabbit",
+         "objects":[
+                {
+                 "height":166.666666666667,
+                 "id":5,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"Ak0tDTxb9Ef3HDJgbOuO68B6N0pHLaWA0fBP20dL70CS7Xabb2"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":521.212121212121,
+                 "x":309.090909090909,
+                 "y":224.242424242424
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
          "id":3,
          "name":"floorLayer",
          "objects":[
@@ -246,8 +330,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":19,
- "nextobjectid":2,
+ "nextlayerid":22,
+ "nextobjectid":6,
  "orientation":"orthogonal",
  "properties":[
         {
