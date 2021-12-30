@@ -88,6 +88,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"showMessage",
+                 "type":"string",
+                 "value":"hekko"
+                }, 
+                {
                  "name":"stopAudio",
                  "type":"string",
                  "value":"assets\/audio\/acid.mp3"
