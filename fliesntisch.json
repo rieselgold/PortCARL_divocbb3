@@ -254,7 +254,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/drive.google.com\/drive\/folders\/1ozZIiNq9wIIpnMSV0uybXWRGw6iR9Qnk?usp=sharing"
+                 "value":"https:\/\/drive.google.com\/drive\/folders\/1ozZIiNq9wIIpnMSV0uybXWRGw6iR9Qnk"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
