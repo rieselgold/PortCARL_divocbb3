@@ -529,6 +529,12 @@
                  "height":56.5,
                  "id":18,
                  "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"Lz15nlUW3K5FiUC8N1KV4ftGddJaPjeKfuGWwBvnTLveoQCx63"
+                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -551,6 +557,12 @@
                  "height":42.6666666666666,
                  "id":17,
                  "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"X8u33CtBWOhGOjAlxw6h70hh4IWQ2txioFU51yGPeWekXkMSa6"
+                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -624,7 +636,24 @@
          "draworder":"topdown",
          "id":59,
          "name":"nft_vacc",
-         "objects":[],
+         "objects":[
+                {
+                 "height":54.5454545454545,
+                 "id":23,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadg",
+                         "type":"string",
+                         "value":"X8u33CtBWOhGOjAlxw6h70hh4IWQ2txioFU51yGPeWekXkMSa6"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":42.4242424242425,
+                 "x":530.30303030303,
+                 "y":1418.18181818182
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -821,7 +850,7 @@
          "y":0
         }],
  "nextlayerid":60,
- "nextobjectid":23,
+ "nextobjectid":24,
  "orientation":"orthogonal",
  "properties":[
         {
