@@ -43,6 +43,12 @@
                  "y":1208
                 }],
          "opacity":1,
+         "properties":[
+                {
+                 "name":"getBadge",
+                 "type":"string",
+                 "value":""
+                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
@@ -52,7 +58,24 @@
          "draworder":"topdown",
          "id":13,
          "name":"nft_kette",
-         "objects":[],
+         "objects":[
+                {
+                 "height":42,
+                 "id":2,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"Dz94XvgvfJ1AmGK9HNVTUO2JAqEIZs3Jmwux90AKCCdTjWnIK0"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":46,
+                 "x":1140,
+                 "y":290
+                }],
          "opacity":1,
          "properties":[
                 {
@@ -185,7 +208,7 @@
          "y":0
         }],
  "nextlayerid":14,
- "nextobjectid":2,
+ "nextobjectid":4,
  "orientation":"orthogonal",
  "properties":[
         {
