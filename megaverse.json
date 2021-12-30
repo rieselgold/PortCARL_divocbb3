@@ -100,8 +100,25 @@
         }, 
         {
          "draworder":"topdown",
+         "id":16,
+         "name":"megaverse#29",
+         "objects":[],
+         "opacity":1,
+         "properties":[
+                {
+                 "name":"getBadge",
+                 "type":"string",
+                 "value":"pN30f37LU2cLnHeda279btxyGU3mDw3Vgj4ETKW4tQDWmkqWRr"
+                }],
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
          "id":15,
-         "name":"megaverse#2",
+         "name":"megaverse#26",
          "objects":[
                 {
                  "height":199,
@@ -189,7 +206,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":16,
+ "nextlayerid":17,
  "nextobjectid":3,
  "orientation":"orthogonal",
  "properties":[
