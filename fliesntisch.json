@@ -2556,6 +2556,12 @@
          "imagewidth":576,
          "margin":0,
          "name":"numbers",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"MDMX \/ BennoB\u00f6ller \/ menschmeier"
+                }],
          "spacing":0,
          "tilecount":180,
          "tileheight":32,
