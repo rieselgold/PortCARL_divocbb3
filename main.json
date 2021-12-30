@@ -554,6 +554,120 @@
         }, 
         {
          "draworder":"topdown",
+         "id":56,
+         "name":"nft_goodland",
+         "objects":[
+                {
+                 "ellipse":true,
+                 "height":92,
+                 "id":9,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"X8u33CtBWOhGOjAlxw6h70hh4IWQ2txioFU51yGPeWekXkMSa6"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":98,
+                 "x":432,
+                 "y":917
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":57,
+         "name":"nft_jitsi",
+         "objects":[
+                {
+                 "height":120,
+                 "id":11,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"lkCJ52ZCu5RbiiQSWW2C3ehzQAnctAlnDh9O4xOypCTl3UeGnN"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":250.666666666667,
+                 "x":1239.33333333333,
+                 "y":778
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":58,
+         "name":"nft_offiser",
+         "objects":[
+                {
+                 "height":38,
+                 "id":12,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"uLxcAIm0U0tghD8Cei3II4Dr0DaiKMtS1vsSNXWm1VRbACOSz5"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":34.6666666666665,
+                 "x":2452,
+                 "y":819.333333333333
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":59,
+         "name":"nft_vacc",
+         "objects":[
+                {
+                 "ellipse":true,
+                 "height":76.6666666666666,
+                 "id":13,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"8xwv1F6xk3NYSNR4P3qOTZvMyGgFjhxQrfUilje8oFz1oiVk4K"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":74,
+                 "x":208,
+                 "y":630
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
          "id":50,
          "name":"nft_reggaeornot",
          "objects":[
@@ -744,8 +858,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":56,
- "nextobjectid":9,
+ "nextlayerid":60,
+ "nextobjectid":14,
  "orientation":"orthogonal",
  "properties":[
         {
