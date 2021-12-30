@@ -95,7 +95,7 @@
         {
          "draworder":"topdown",
          "id":14,
-         "name":"unmute",
+         "name":"nft_unmute",
          "objects":[
                 {
                  "height":48,
@@ -113,6 +113,62 @@
                  "width":50.6666666666667,
                  "x":132,
                  "y":218.666666666667
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":15,
+         "name":"nft_words",
+         "objects":[
+                {
+                 "height":52,
+                 "id":2,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"VD7i0tpHEYgW4qK1k8tadptkLmk4RfZoxeTtflmHZSUapqGYEt"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":54.6666666666666,
+                 "x":452,
+                 "y":134.666666666667
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":16,
+         "name":"nft_github",
+         "objects":[
+                {
+                 "height":68,
+                 "id":3,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"crqkdftWHAUC5BchvoZwKdc6T3QEXBnWDjMtHAqfVmTpiGAutg"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":69.3333333333333,
+                 "x":293.333333333333,
+                 "y":357.333333333333
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -229,8 +285,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":15,
- "nextobjectid":2,
+ "nextlayerid":17,
+ "nextobjectid":4,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
