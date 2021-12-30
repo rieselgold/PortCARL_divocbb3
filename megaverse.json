@@ -117,9 +117,82 @@
         }, 
         {
          "draworder":"topdown",
+         "id":18,
+         "name":"megaverse#3",
+         "objects":[
+                {
+                 "height":196,
+                 "id":3,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"ZD8GsLNrF9PL9VYEk2hEMLfu6lBls6eX5e9dMSULW2l01WXEpf"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":196,
+                 "x":1565,
+                 "y":3383
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":19,
+         "name":"megaverse#10",
+         "objects":[
+                {
+                 "height":198,
+                 "id":4,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"dDVvEpz4NzPxjxqDgDe3vYdWKGcMCGdPv9yW4CiffcGK9YtOs6"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":197,
+                 "x":1245,
+                 "y":2749
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
          "id":17,
          "name":"megaverse#39",
-         "objects":[],
+         "objects":[
+                {
+                 "height":172,
+                 "id":5,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"gdJpDM7hUdxp3wWcksUdW5Nm1GCeNgKjizDgbkxzYgXUzEYebe"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":178,
+                 "x":1579,
+                 "y":521
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -217,8 +290,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":18,
- "nextobjectid":3,
+ "nextlayerid":20,
+ "nextobjectid":6,
  "orientation":"orthogonal",
  "properties":[
         {
