@@ -64216,6 +64216,12 @@
          "imagewidth":992,
          "margin":0,
          "name":"Garten_Tileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"s\u00efana\u00efs \/ lieblinge.org"
+                }],
          "spacing":0,
          "tilecount":992,
          "tileheight":32,
