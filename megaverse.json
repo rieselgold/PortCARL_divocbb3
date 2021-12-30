@@ -108,8 +108,19 @@
                 {
                  "name":"getBadge",
                  "type":"string",
-                 "value":"pN30f37LU2cLnHeda279btxyGU3mDw3Vgj4ETKW4tQDWmkqWRr"
+                 "value":"ZD8GsLNrF9PL9VYEk2hEMLfu6lBls6eX5e9dMSULW2l01WXEpf"
                 }],
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":17,
+         "name":"megaverse#39",
+         "objects":[],
+         "opacity":1,
          "type":"objectgroup",
          "visible":true,
          "x":0,
@@ -206,7 +217,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":17,
+ "nextlayerid":18,
  "nextobjectid":3,
  "orientation":"orthogonal",
  "properties":[
