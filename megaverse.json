@@ -100,9 +100,26 @@
         }, 
         {
          "draworder":"topdown",
-         "id":6,
-         "name":"floorLayer",
-         "objects":[],
+         "id":15,
+         "name":"megaverse#2",
+         "objects":[
+                {
+                 "height":199,
+                 "id":2,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"pN30f37LU2cLnHeda279btxyGU3mDw3Vgj4ETKW4tQDWmkqWRr "
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":199,
+                 "x":1241,
+                 "y":1466
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -139,26 +156,9 @@
         }, 
         {
          "draworder":"topdown",
-         "id":15,
-         "name":"megaverse#2",
-         "objects":[
-                {
-                 "height":199,
-                 "id":2,
-                 "name":"",
-                 "properties":[
-                        {
-                         "name":"getBadge",
-                         "type":"string",
-                         "value":"pN30f37LU2cLnHeda279btxyGU3mDw3Vgj4ETKW4tQDWmkqWRr "
-                        }],
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":199,
-                 "x":1241,
-                 "y":1466
-                }],
+         "id":6,
+         "name":"floorLayer",
+         "objects":[],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
