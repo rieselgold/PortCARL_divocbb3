@@ -442,22 +442,15 @@
          "name":"nft_reality",
          "objects":[
                 {
-                 "ellipse":true,
-                 "height":71,
-                 "id":5,
+                 "height":38.5,
+                 "id":21,
                  "name":"",
-                 "properties":[
-                        {
-                         "name":"getBadge",
-                         "type":"string",
-                         "value":"Ig7HlrvZJDHHSJmpdlwNKAPaWPodeqbg11b4dDW4Cl40qtINad"
-                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":76,
-                 "x":1058,
-                 "y":924
+                 "width":33.5,
+                 "x":1076.5,
+                 "y":943.5
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -471,22 +464,15 @@
          "name":"nft_sharing",
          "objects":[
                 {
-                 "ellipse":true,
-                 "height":101,
-                 "id":6,
+                 "height":39,
+                 "id":20,
                  "name":"",
-                 "properties":[
-                        {
-                         "name":"getBadge",
-                         "type":"string",
-                         "value":"bQptEKmqmN9rnJkcG90LwDXqEf2ioxV2DcKQxQ07ZLjHt4OYO7"
-                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":91,
-                 "x":1080,
-                 "y":1235
+                 "width":36,
+                 "x":1109,
+                 "y":1266
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -500,22 +486,15 @@
          "name":"nft_LAN",
          "objects":[
                 {
-                 "ellipse":true,
-                 "height":103,
-                 "id":7,
+                 "height":35,
+                 "id":19,
                  "name":"",
-                 "properties":[
-                        {
-                         "name":"getBadge",
-                         "type":"string",
-                         "value":"HHNLifjJpfxZZj22bXzIAcTdRvBIgT5ADg13KnLj6EaM19vn1j"
-                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":106,
-                 "x":783,
-                 "y":1234
+                 "width":36,
+                 "x":816,
+                 "y":1262
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -529,22 +508,15 @@
          "name":"nft_worry",
          "objects":[
                 {
-                 "ellipse":true,
-                 "height":88,
-                 "id":8,
+                 "height":56.5,
+                 "id":18,
                  "name":"",
-                 "properties":[
-                        {
-                         "name":"getBadge",
-                         "type":"string",
-                         "value":"Lz15nlUW3K5FiUC8N1KV4ftGddJaPjeKfuGWwBvnTLveoQCx63"
-                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":98,
-                 "x":367,
-                 "y":1142
+                 "width":49,
+                 "x":396,
+                 "y":1157
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -558,22 +530,15 @@
          "name":"nft_goodland",
          "objects":[
                 {
-                 "ellipse":true,
-                 "height":92,
-                 "id":9,
+                 "height":42.6666666666666,
+                 "id":17,
                  "name":"",
-                 "properties":[
-                        {
-                         "name":"getBadge",
-                         "type":"string",
-                         "value":"X8u33CtBWOhGOjAlxw6h70hh4IWQ2txioFU51yGPeWekXkMSa6"
-                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":98,
-                 "x":432,
-                 "y":917
+                 "width":44,
+                 "x":456,
+                 "y":940
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -641,25 +606,7 @@
          "draworder":"topdown",
          "id":59,
          "name":"nft_vacc",
-         "objects":[
-                {
-                 "ellipse":true,
-                 "height":76.6666666666666,
-                 "id":13,
-                 "name":"",
-                 "properties":[
-                        {
-                         "name":"getBadge",
-                         "type":"string",
-                         "value":"8xwv1F6xk3NYSNR4P3qOTZvMyGgFjhxQrfUilje8oFz1oiVk4K"
-                        }],
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":74,
-                 "x":208,
-                 "y":630
-                }],
+         "objects":[],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -672,22 +619,15 @@
          "name":"nft_reggaeornot",
          "objects":[
                 {
-                 "ellipse":true,
-                 "height":90,
-                 "id":3,
+                 "height":72,
+                 "id":16,
                  "name":"",
-                 "properties":[
-                        {
-                         "name":"getBadge",
-                         "type":"string",
-                         "value":"5igcHZuPoOzNkkljRhtqpUKT0bBAd0IXMWaDcB50eYRQQe2Su4"
-                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":112,
-                 "x":942,
-                 "y":592
+                 "width":84,
+                 "x":950,
+                 "y":606
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -701,22 +641,26 @@
          "name":"nft_beckenrand",
          "objects":[
                 {
-                 "ellipse":true,
-                 "height":65,
-                 "id":4,
+                 "height":32.5,
+                 "id":15,
                  "name":"",
-                 "properties":[
-                        {
-                         "name":"getBadge",
-                         "type":"string",
-                         "value":"JLfGQd8jXkQl1qs4yKEjzDaJ1ibxxAmOwky8PBkVTAw7MlEOTN"
-                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":62,
-                 "x":566,
-                 "y":728.5
+                 "width":33.75,
+                 "x":581.25,
+                 "y":750
+                }, 
+                {
+                 "height":26.6666666666666,
+                 "id":22,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":24,
+                 "x":253,
+                 "y":675.666666666667
                 }],
          "offsetx":-21,
          "offsety":-27,
@@ -859,7 +803,7 @@
          "y":0
         }],
  "nextlayerid":60,
- "nextobjectid":14,
+ "nextobjectid":23,
  "orientation":"orthogonal",
  "properties":[
         {
