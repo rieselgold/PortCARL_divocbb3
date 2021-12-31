@@ -464,6 +464,12 @@
          "imagewidth":384,
          "margin":0,
          "name":"megaverse_population",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"MDMX \/ BennoB\u00f6ller \/ menschmeier"
+                }],
          "spacing":0,
          "tilecount":144,
          "tileheight":32,
@@ -477,6 +483,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"megaverse_population_schatten",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"MDMX \/ BennoB\u00f6ller \/ menschmeier"
+                }],
          "spacing":0,
          "tilecount":20,
          "tileheight":32,
