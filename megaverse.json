@@ -100,6 +100,51 @@
         }, 
         {
          "draworder":"topdown",
+         "id":21,
+         "name":"nft_gern",
+         "objects":[
+                {
+                 "height":191.5,
+                 "id":10,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"yrax1TbkJniIQbOcoQMHHfxWJoKsG7g38DgNZcbOjQ9pbz8vB5"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":192.5,
+                 "x":480,
+                 "y":3072
+                }, 
+                {
+                 "height":78.7878787878785,
+                 "id":18,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"0P06Z4kp0Ru9g1yhOvnuVEme68mgC1dIhW04WpohAuV5imNFdt"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":63.6363636363636,
+                 "x":187.878787878788,
+                 "y":2533.33333333333
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
          "id":16,
          "name":"megaverse#29",
          "objects":[
@@ -134,26 +179,9 @@
         }, 
         {
          "draworder":"topdown",
-         "id":21,
-         "name":"megavers#05",
-         "objects":[
-                {
-                 "height":191.5,
-                 "id":10,
-                 "name":"",
-                 "properties":[
-                        {
-                         "name":"getBadge",
-                         "type":"string",
-                         "value":"yrax1TbkJniIQbOcoQMHHfxWJoKsG7g38DgNZcbOjQ9pbz8vB5"
-                        }],
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":192.5,
-                 "x":480,
-                 "y":3072
-                }],
+         "id":34,
+         "name":"Objektebene 16",
+         "objects":[],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -555,8 +583,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":34,
- "nextobjectid":18,
+ "nextlayerid":35,
+ "nextobjectid":19,
  "orientation":"orthogonal",
  "properties":[
         {
