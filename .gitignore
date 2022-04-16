@@ -1,0 +1,6 @@
+*.tiled-project
+*.tiled-session
+*.tmx
+*.tsx
+.DS_Store
+working/
