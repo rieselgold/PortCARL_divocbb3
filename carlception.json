@@ -156,7 +156,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"twittwe.json#start_carlception"
+                 "value":"twitter.json#start_carlception"
                 }],
          "type":"tilelayer",
          "visible":true,

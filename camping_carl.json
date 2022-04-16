@@ -42,19 +42,19 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.7.1",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
-         "columns":30,
+         "columns":31,
          "firstgid":1,
          "image":"assets\/tilesets\/Garten_Tileset.png",
          "imageheight":1024,
-         "imagewidth":960,
+         "imagewidth":992,
          "margin":0,
          "name":"Garten_Tileset",
          "spacing":0,
-         "tilecount":960,
+         "tilecount":992,
          "tileheight":32,
          "tilewidth":32,
          "wangsets":[
